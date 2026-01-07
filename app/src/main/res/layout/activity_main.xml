@@ -8,28 +8,28 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="28dp"
-        tools:layout_editor_absoluteY="125dp" />
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="98dp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="28dp"
-        tools:layout_editor_absoluteY="211dp" />
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="170dp" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="28dp"
-        tools:layout_editor_absoluteY="287dp" />
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="260dp" />
 
     <Button
         android:id="@+id/button4"
